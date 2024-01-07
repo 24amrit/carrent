@@ -1,0 +1,26 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js config set cache-folder C:\Users\AMRITP~1\AppData\Local\Yarn\Cache
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\MongoDB\mongosh-1.8.2-win32-x64\bin;C:\Program Files\nodejs\;C:\Users\Amrit Panigrahy\AppData\Local\Microsoft\WindowsApps;C:\Users\Amrit Panigrahy\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\4.2\bin;C:\Users\Amrit\AppData\Local\Yarn\bin;C:\Users\Amrit Panigrahy\AppData\Roaming\npm;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, mkdir 'C:\Users\AMRITP~'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
